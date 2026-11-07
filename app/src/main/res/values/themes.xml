@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Kopidannyemil" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Font default seluruh aplikasi -->
+        <item name="fontFamily">@font/poppinsbold</item>
+        <item name="android:fontFamily">@font/poppinsbold</item>
+    </style>
+
+    <style name="Theme.Kopidannyemil" parent="Base.Theme.Kopidannyemil" />
+
+    <!-- Style khusus jika ada teks/tombol yang butuh font tebal/berbeda -->
+    <style name="TextLightCustom">
+        <item name="fontFamily">@font/poppinsregular</item>
+        <item name="android:fontFamily">@font/poppinsregular</item>
+        <item name="android:textColor">#1A1A1A</item>
+        <item name="android:alpha">1.0</item>
+    </style>
+</resources>
