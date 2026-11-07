@@ -93,7 +93,7 @@ app/src/main/
 
 1. **Clone repository**
    ```bash
-   git clone
+   git clone https://github.com/Hariri-IbnuR/Kopi-dan-Nyemil.git
    ```
 2. **Buka proyek** di Android Studio melalui `File > Open`, lalu pilih folder proyek.
 3. **Tunggu Gradle Sync** sampai selesai (pastikan terhubung ke internet saat pertama kali).
